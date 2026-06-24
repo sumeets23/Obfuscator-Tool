@@ -1,0 +1,14 @@
+{
+    "name": "ScriptObfuscator.Editor.Tests",
+    "rootNamespace": "ScriptObfuscator.Tests",
+    "references": [
+        "ScriptObfuscator.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "autoReferenced": false
+}
