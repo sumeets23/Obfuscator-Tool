@@ -1,5 +1,8 @@
 # Obfuscator Tool
 
+
+<img width="2950" height="1655" alt="Screenshot 2026-06-24 153232" src="https://github.com/user-attachments/assets/09574ce3-243a-4cc6-8de0-16c92b8cd481" />
+
 Unity Tool for compiling selected runtime C# scripts into an obfuscated DLL and replacing the selected source files with that DLL after a verified backup.
 
 ## What It Does
